@@ -418,3 +418,14 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+/* --- My Additions --- */
+
+header a {
+  text-decoration: none;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
