@@ -350,11 +350,13 @@ blockquote,
 dl,
 figure,
 table,
-p,
 ul,
 ol,
 form {
   margin-bottom: 2.5rem; }
+
+p {
+  margin-bottom: 2rem; }
 
 
 /* Utilities
