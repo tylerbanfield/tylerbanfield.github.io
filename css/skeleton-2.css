@@ -429,3 +429,9 @@ footer a {
   text-decoration: none;
   color: white;
 }
+
+.intro-number {
+  font-size: 2.4rem;
+  font-weight: bold;
+  color: #0B3853;
+}
